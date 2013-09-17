@@ -1,4 +1,4 @@
-malakes
+Malakes
 =======
 
 The malakes website
