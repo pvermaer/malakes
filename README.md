@@ -1,4 +1,4 @@
-malakes
+Malakes
 =======
 
-Malakes design website
+The malakes website
