@@ -6,3 +6,8 @@ h1 {
 	font-weight:300;
 	font-size:72px;
 }
+
+p.lead {
+	font-weight:400;
+	font-size:24.5px;
+}
