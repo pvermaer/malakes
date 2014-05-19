@@ -1,7 +1,6 @@
 body {
 	font-family: 'Open Sans', sans-serif;
   text-align: center;
-  text-shadow: 0 1px 3px rgba(0,0,0,.5);
 }
 
 h1 {
@@ -12,4 +11,14 @@ h1 {
 p.lead {
 	margin-top:25px;
 	font-size:24.5px;
+}
+
+.cover-container {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+/* Padding for spacing */
+.inner {
+  padding: 30px;
 }
